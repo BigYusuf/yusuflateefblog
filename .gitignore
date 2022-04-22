@@ -40,12 +40,12 @@ yarn-error.log*
 *.tsbuildinfo
 
 # sanity folder
+sanity.js
 sanitymediumclone/sanity.json
 sanitymediumclone/yarn.lock
 sanitymediumclone/node_modules
 
-# package files
-package.json
+# package files        
 package-lock.json
 yarn.lock
 sanity.json
