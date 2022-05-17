@@ -14,16 +14,16 @@ export default function Home({ posts }: Props){
   return (
     <div className="max-w-7xl mx-auto">
       <Head>
-        <title>Medium Blog</title>
+        <title>All about Yusuf Lateef [Full Stack Engineer] - Blog</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header/>
       
       <div className="flex justify-between items-center
-      bg-yellow-400 border-y border-black py-10 lg:py-0">
+      bg-green-400 border-y border-black py-10 lg:py-0">
         <div className="px-10 space-y-5">
           <h1 className="text-6xl max-w-xl font-serif">
-            <span className="underline decoration-black decoration-4">Medium
+            <span className="underline decoration-black decoration-4">Yusuf's Blog
             </span>{" "}
             is a place to write, read and connect</h1>
           <h2>It's easy and free to post your thoughts on any topic and 
